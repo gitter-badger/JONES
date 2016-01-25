@@ -1,6 +1,8 @@
 dargon
 ============
 
+[![Join the chat at https://gitter.im/amody5/JONES](https://badges.gitter.im/amody5/JONES.svg)](https://gitter.im/amody5/JONES?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![https://yago.me/tg-bot](https://img.shields.io/badge/💬_Telegram-Bot_Dev._Group-blue.svg)](https://yago.me/tg-bot) [![https://telegram.me/Yago_Perez](https://img.shields.io/badge/💬_Telegram-Yago__Perez-blue.svg)](https://telegram.me/Yago_Perez) [![https://gitter.im/yagop/telegram-bot](https://img.shields.io/badge/💬_Gitter-Join_Chat-green.svg)](https://gitter.im/yagop/telegram-bot)
 [![Donate button](https://img.shields.io/badge/Red_Cross-donate-yellow.svg)](https://www.icrc.org/ "Donate to Red Cross Society")
 
