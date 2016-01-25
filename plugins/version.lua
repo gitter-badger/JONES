@@ -1,9 +1,10 @@
 do
 
 function run(msg, matches)
-  return 'Telegram Bot '.. VERSION .. [[ 
-  Checkout http://git.io/6jdjGg
-  GNU GPL v2 license.]]
+  return 'JONES '.. VERSION .. [[ 
+  Checkout https://github.com/amody5/JONES
+  GNU GPL v2 license
+  the developem @amody7 .]]
 end
 
 return {
